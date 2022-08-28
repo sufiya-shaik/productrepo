@@ -6,3 +6,8 @@ to create the devops for productorg
 
 
 to create these line commited these code
+
+
+
+
+to merge the conflicts 
